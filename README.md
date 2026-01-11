@@ -3,7 +3,8 @@
 A simple Weather Application built using HTML, CSS, and JavaScript.
 
 ## Preview
-![Weather App Screenshot](screenshots/app.png)
+![Weather App Screenshot](screenshots/weather-app.png)
+
 
 ## Features
 - Search weather by city
